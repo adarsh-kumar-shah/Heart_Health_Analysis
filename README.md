@@ -57,7 +57,7 @@ This analysis helps identify key medical and lifestyle factors contributing to h
 It provides a foundation for building predictive models and improving preventive healthcare strategies.
 
 ## 👩‍💻 Author
-**Pudota Sathwika**  
+**Adarsh Shah**  
 📘 [GitHub Profile](https://github.com/sathwikap03)
 
 
