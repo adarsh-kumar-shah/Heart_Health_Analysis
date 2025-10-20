@@ -59,8 +59,3 @@ It provides a foundation for building predictive models and improving preventive
 ## 👩‍💻 Author
 **Adarsh Shah**  
 📘 [GitHub Profile](https://github.com/adarsh-kumar-shah)
-
-
->  **Repository:** [sathwikap03/Heart_Health_Analysis](https://github.com/sathwikap03/Heart_Health_Analysis)
-[README.md](https://github.com/user-attachments/files/22997154/README.md)
-factors that influence heart disease risk. The analysis was performed in Python using Google Colab, focusing on data cleaning, visualization, and correlation analysis between health indicators such as age, cholesterol, blood pressure, and exercise habits. 
