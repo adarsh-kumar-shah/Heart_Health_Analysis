@@ -58,7 +58,7 @@ It provides a foundation for building predictive models and improving preventive
 
 ## 👩‍💻 Author
 **Adarsh Shah**  
-📘 [GitHub Profile](https://github.com/sathwikap03)
+📘 [GitHub Profile](https://github.com/adarsh-kumar-shah)
 
 
 >  **Repository:** [sathwikap03/Heart_Health_Analysis](https://github.com/sathwikap03/Heart_Health_Analysis)
